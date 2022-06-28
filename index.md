@@ -16,14 +16,13 @@
 - 다양한 분석방법 경험
 - 추가될 수 있다(Tableu도 사용해보고 싶다)
 
-**Bold** and _Italic_ and `Code` text
 
-![사진](E:\그림\2022년\zzwt)
 
 ```
 
 밑에는무시 ㄱ ㄱ 아직다안함
 
+**Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
