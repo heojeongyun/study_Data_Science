@@ -15,3 +15,6 @@
 * 토이 프로젝트 해보기
 * 현업 사람들이 뭐 물어보면 바로 대답할 수 있을 정도로 용어랑 이론 숙지하기
 * 또뭐있지
+
+내일 할거(07. 07)
+https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/3-%ec%8b%a0%ea%b2%bd%eb%a7%9d-%ec%8b%9c%ec%9e%91%ed%95%98%ea%b8%b0/
